@@ -57,7 +57,7 @@
     .plastique{
         /* width: 1259px; */
         width: 1150px;
-        background: url(image/déchets\ plastiques.jpg) no-repeat  center / cover;
+        background: url(image/déchets.jpg) no-repeat  center / cover;
         display: flex;
         justify-content: center;
         flex-direction: column;
